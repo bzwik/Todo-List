@@ -41,8 +41,8 @@ group :development, :test do
   gem 'spring'
 end
 
-group :developer do
-		gem 'sqlite3'
+group :development do
+	gem 'sqlite3'
 end
 
 group :production do
